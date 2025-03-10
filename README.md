@@ -8,13 +8,8 @@
 </p>
 <h5 align="center">
 </p>
-
- </p>
-</h5>
-
-<h5 align="center">
+<p align="center">
   
-<img src="https://files.catbox.moe/thumbs/t_qwmrgc.png"/>
-</p>
+<img src="https://files.catbox.moe/qwmrgc.png"/>
 
 </p>
