@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/cdb89c973bb1cf700dbd0571ac8f6cc2/61046c1ecbed81a5-1d/s1280x1920/7fa60e06fa2e7873790dc1b7de1889dd52449bf6.pnj"/>
+  <img src="https://files.catbox.moe/3ddubd.png"/>
 <h3 align="center">
 <p align="center">
 <img src="https://files.catbox.moe/cjqkto.gif"/>
@@ -14,7 +14,7 @@
 
 <h5 align="center">
   
-<img src="https://64.media.tumblr.com/cdb89c973bb1cf700dbd0571ac8f6cc2/61046c1ecbed81a5-1d/s1280x1920/7fa60e06fa2e7873790dc1b7de1889dd52449bf6.pnj"/>
+<img src="https://files.catbox.moe/thumbs/t_qwmrgc.png"/>
 </p>
 
 </p>
