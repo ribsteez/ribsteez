@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   
-<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fribsteez&label=&icon=heart&color=%23711515&message=&style=plastic&tz=EST">
+<a href="https://hits.sh/github.com/ribsteez/"><img alt="Hits" src="https://hits.sh/github.com/ribsteez.svg?style=plastic&label=C%E2%82%81%E2%82%87H%E2%82%81%E2%82%89NO%E2%82%83&color=631d1d&labelColor=B8B1B6"/></a>
 
 
 <img src="https://file.garden/Z8jTOfiIJCdTMZxl/waawaaw.png"/>
