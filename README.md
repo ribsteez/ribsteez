@@ -9,7 +9,9 @@
 <h5 align="center">
 </p>
 <p align="center">
-  
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fribsteez&label=&icon=heart&color=%23711515&message=&style=plastic&tz=EST">
+
+
 <img src="https://file.garden/Z8jTOfiIJCdTMZxl/waawaaw.png"/>
 
 </p>
